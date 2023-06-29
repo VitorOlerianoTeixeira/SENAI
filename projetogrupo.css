@@ -1,0 +1,32 @@
+.mockup{
+    background: rgb(255,115,0);
+background: linear-gradient(0deg, rgba(255,115,0,1) 0%, rgba(0,0,0,1) 26%);
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content:space-between;
+}
+
+p{
+    font-size: 24px;
+    font: bold;
+    color: aliceblue;
+    padding: 20px;
+    width: 35vw;
+}
+.image{
+    
+    justify-content: center
+    height: 350px;
+    padding: 30px;
+}  
+.logo{
+    justify-content:center;
+    height: 350px;
+    
+}
+
+.celular{
+     justify-content: end;
+     height: 650px;
+}
